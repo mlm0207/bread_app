@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: #d2691e;
+    font-size: 40pt;
+}
+
+
+h3 {
+    text-align: center;
+    color:#e27e36;
+    font-size: 20pt;
+}
+
+
+body {
+    background-color: #ffffe6;
+    background-image: radial-gradient(circle,#ffffff,
+         #ffffe6, #ffd480);
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
